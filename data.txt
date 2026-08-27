@@ -7,3 +7,4 @@ Binman24
 BinMan24:Rafe:hi
 Rafe:BinMan24:yo
 Binman:Rafe:hi
+Binman24:Binman:hi

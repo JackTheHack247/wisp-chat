@@ -2,6 +2,7 @@
 BinMan24:1234
 this acc:1234::avatar=1787852643267::pos=50,50
 Bob:1234
+new acc:555
 === MESSAGES ===
 BinMan24:nulldrop:hi
 this acc:BinMan24:yo
@@ -21,3 +22,4 @@ this acc:BinMan24:isagi_jumping.mp4-file:2026-08-27T17:45
 this acc:BinMan24:sdfads:2026-08-27T17:47
 BinMan24:nulldrop:YOOOOOOOOOOOOOOOOOOOOOOO it works:2026-08-27T17:51
 BinMan24:nulldrop:images.jpg-file:2026-08-27T18:11
+=== FRIENDS ===

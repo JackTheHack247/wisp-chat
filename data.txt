@@ -3,7 +3,6 @@ BinMan24:1234
 Rafe:1234
 === MESSAGES ===
 BinMan24:Rafe:hi
-Rafe:BinMan24:yo
 Binman:Rafe:hi
 Binman24:Binman:hi
 BinMan24:Rafe:yoooooooooooooooooooooo

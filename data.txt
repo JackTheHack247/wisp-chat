@@ -4,7 +4,7 @@ Rafe
 Binman
 Binman24
 === MESSAGES ===
-BinMan24:Rafe:hi
+BinMan24:Rafe:hi bro
 Rafe:BinMan24:yo
 Binman:Rafe:hi
 Binman24:Binman:hi

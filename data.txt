@@ -1,5 +1,5 @@
 === USERS ===
-BinMan24:1234
+BinMan24:1234::email=jackmbeverley@gmail.com
 this acc:1234::avatar=1787852643267::pos=50,50
 Bob:1234
 new acc:555

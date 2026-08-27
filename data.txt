@@ -6,7 +6,6 @@ new acc:555
 yh:111
 so hello:yes
 Rafe123:alf10loo::email=rafehawthorne@gmail.com
-jackmbeverley@gmail.com:1234
 === MESSAGES ===
 BinMan24:nulldrop:hi
 this acc:BinMan24:yo

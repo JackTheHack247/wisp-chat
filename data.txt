@@ -5,3 +5,4 @@ Binman
 === MESSAGES ===
 BinMan24:Rafe:hi
 Rafe:BinMan24:yo
+Binman:Rafe:hi

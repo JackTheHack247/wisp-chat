@@ -1,8 +1,9 @@
 === USERS ===
-BinMan24
-Rafe
-Binman
-Binman24
+BinMan24:
+Rafe:
+Binman:
+Binman24:
+BinMan:1234
 === MESSAGES ===
 BinMan24:Rafe:hi
 Rafe:BinMan24:yo

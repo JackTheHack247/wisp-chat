@@ -1,7 +1,7 @@
 === USERS ===
 BinMan24:1234
 nulldrop:1234::avatar=1787852176926
-Rafe:1234::avatar=1787852643267::pos=50,50
+so:1234::avatar=1787852643267::pos=50,50
 === MESSAGES ===
 BinMan24:nulldrop:hi
 nulldrop:BinMan24:yo

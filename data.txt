@@ -3,8 +3,11 @@ BinMan24:1234
 Rafe:1234
 === MESSAGES ===
 BinMan24:Rafe:hi
+Rafe:BinMan24:yo
 Binman:Rafe:hi
 Binman24:Binman:hi
 BinMan24:Rafe:yoooooooooooooooooooooo
 BinMan24:Rafe:hola
+Rafe:BinMan24:yoyoyoyooyyo
+Rafe:BinMan24:fuck u nigger
 BinMan24:Rafe:yoyoyooyoyo

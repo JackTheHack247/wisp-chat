@@ -2,6 +2,7 @@
 BinMan24
 Rafe
 Binman
+Binman24
 === MESSAGES ===
 BinMan24:Rafe:hi
 Rafe:BinMan24:yo

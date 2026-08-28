@@ -10,7 +10,7 @@ jackmbeverley@gmail_com:1234:::offline::::
 hdfh:alf10loo::hdfh.png-avatar:offline::seen=2026-08-28T091648.608Z::
 sdfhgg:sadfg::sdfhgg.png-avatar:offline:Rafe123:seen=2026-08-28T094138.901Z::
 alice:123:hhhh@gmail.com::offline:ok::2026-08-28T094613.757Z:
-nulldrop:12345678:rafehawthorne@gmail.com:nulldrop.png-avatar:online:::2026-08-28T144115.754Z:yo me is nulldrop
+nulldrop:12345678:rafehawthorne@gmail.com:nulldrop.png-avatar:offline:::1970-01-01T000000.000Z:yo me is nulldrop
 745643456:yes:ggg@gmail.com::offline:::2026-08-28T120949.799Z:
 === MESSAGES ===
 BinMan24:nulldrop:hi

@@ -5,7 +5,7 @@ Bob:1234
 new acc:555
 yh:111
 so hello:yes
-Rafe123:alf10loo::email=rafehawthorne@gmail.com::seen=2026-08-28T083552.254Z
+Rafe123:alf10loo::email=rafehawthorne@gmail.com::seen=2026-08-28T083624.402Z
 jackmbeverley@gmail.com:1234
 === MESSAGES ===
 BinMan24:nulldrop:hi

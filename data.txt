@@ -1,5 +1,5 @@
 === USERS ===
-BinMan24:1234:jackmbeverley@gmail.com:BinMan24.png-avatar:online:::2026-08-29T172648.369Z::#686c74
+BinMan24:1234:jackmbeverley@gmail.com:BinMan24.png-avatar:offline:::2026-08-29T172648.369Z::#686c74
 this acc:1234::this_acc.png-avatar:offline::pos=50,50:::#686c74
 Bob:1234:::offline:::::#686c74
 new acc:555:::offline:::::#686c74
@@ -9,7 +9,7 @@ Rafe123:alf10loo::Rafe123.png-avatar:offline:sdfhgg:pos=50,50:::#686c74
 hdfh:alf10loo::hdfh.png-avatar:offline::seen=2026-08-28T091648.608Z:::#686c74
 sdfhgg:sadfg::sdfhgg.png-avatar:offline:Rafe123:seen=2026-08-28T094138.901Z:::#686c74
 alice:123:hhhh@gmail.com::offline:ok::2026-08-28T094613.757Z::#686c74
-nulldrop:12345678:rafehawthorne@gmail.com:nulldrop.png-avatar:offline:::2026-08-29T171051.438Z:yo me is nulldrop:#0558ff
+nulldrop:12345678:rafehawthorne@gmail.com:nulldrop.png-avatar:online:::2026-08-29T172650.654Z:yo me is nulldrop:#0558ff
 745643456:yes:ggg@gmail.com::offline:::2026-08-28T120949.799Z::#686c74
 === MESSAGES ===
 BinMan24:nulldrop:hi

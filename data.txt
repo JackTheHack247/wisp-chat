@@ -1,5 +1,5 @@
 === USERS ===
-BinMan24:1234:jackmbeverley@gmail.com:BinMan24.png-avatar:offline:::2026-08-29T175427.547Z::#686c74
+BinMan24:1234:jackmbeverley@gmail.com:BinMan24.png-avatar:online:::2026-08-29T175933.499Z::#686c74
 this acc:1234::this_acc.png-avatar:offline::pos=50,50:::#686c74
 Bob:1234:::offline:::::#686c74
 new acc:555:::offline:::::#686c74
